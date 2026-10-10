@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="210" viewBox="0 0 1040 210" role="img" aria-labelledby="title desc">
+  <title id="title">Проверка шага доказательства</title>
+  <desc id="desc">Введённая формула разбирается в дерево, затем сравнивается с аксиомами, известными формулами по MP и подстановкой бета. Принятый шаг сохраняется.</desc>
+  <rect width="1040" height="210" rx="18" fill="#f4f7fb"/>
+  <path d="M214 99h40m195 0h40m206 0h40" stroke="#607b9f" stroke-width="3" stroke-linecap="round"/>
+  <path d="m247 93 8 6-8 6m235-12 8 6-8 6m239-12 8 6-8 6" fill="none" stroke="#607b9f" stroke-width="3"/>
+  <rect x="28" y="61" width="186" height="78" rx="12" fill="#193659"/>
+  <rect x="255" y="61" width="194" height="78" rx="12" fill="#21617f"/>
+  <rect x="490" y="61" width="205" height="78" rx="12" fill="#326c84"/>
+  <rect x="736" y="61" width="270" height="78" rx="12" fill="#31766f"/>
+  <g font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="white">
+    <text x="121" y="96">Формула</text><text x="121" y="120">¬, ∨, ⊃</text>
+    <text x="352" y="96">Разбор</text><text x="352" y="120">в дерево</text>
+    <text x="592" y="96">Аксиома / β / MP</text><text x="592" y="120">проверка шага</text>
+    <text x="871" y="96">Принятый шаг</text><text x="871" y="120">в историю</text>
+  </g>
+  <text x="520" y="183" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#43556c">Ошибка синтаксиса или неподтверждённый шаг → формула не сохраняется</text>
+</svg>
